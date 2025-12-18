@@ -4,7 +4,6 @@
     height: 120px;
   }
   .main {
-    flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
   }
@@ -22,7 +21,6 @@
     padding: 15px 0;
   }
   .test {
-    flex-wrap: wrap;
     gap: 15px;
     height: auto;
   }
